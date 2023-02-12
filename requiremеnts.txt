@@ -1,0 +1,6 @@
+requests
+json
+tqdm
+time
+version API VK = 5.131
+version API Я.Диск = v1
